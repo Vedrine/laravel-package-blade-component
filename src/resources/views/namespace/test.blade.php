@@ -1,0 +1,1 @@
+<h1>Hello from the package Test component</h1>
